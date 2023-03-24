@@ -1,0 +1,2 @@
+web3j generate solidity -a C:\Users\dman\IdeaProjects\AbritrumClaim\src\main\resources\TokenDistributor.abi -b C:\Users\dman\IdeaProjects\AbritrumClaim\src\main\resources\TokenDistributor.bin -o C:\Users\dman\IdeaProjects\AbritrumClaim\src\main\resources\out -p org.dman
+web3j generate solidity -a C:\Users\dman\IdeaProjects\AbritrumClaim\src\main\resources\ARB.abi -b C:\Users\dman\IdeaProjects\AbritrumClaim\src\main\resources\ARB.bin -o C:\Users\dman\IdeaProjects\AbritrumClaim\src\main\resources\out -p org.dman
